@@ -191,8 +191,11 @@ section{
     color: var(--green);
 }
 /* ABout */
-.about .row{
+.about{
     display: none;
+}
+.about .row{
+    display: flex;
     align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
