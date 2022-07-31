@@ -79,7 +79,7 @@ section{
     background-color: var(--bg-color);
     width: 30rem;
     border-right: var(--border);
-    height: 100%;
+    min-height: 100vh;
     padding: 2rem;
     text-align: center;
 }
