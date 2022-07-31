@@ -191,9 +191,6 @@ section{
     color: var(--green);
 }
 /* ABout */
-.about{
-    display: none;
-}
 .about .row{
     display: flex;
     align-items: center;
